@@ -37,6 +37,6 @@ body	{
 
 #skills {
 			color:white;
-			text-align: center;
 			list-style-position: inside;
+			margin:auto; width:300px;
 		}
